@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit config
+.streamlit/
+
+# Dataset (if sensitive or too large for git)
+# data.csv
